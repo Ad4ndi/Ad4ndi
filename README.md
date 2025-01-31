@@ -1,1 +1,3 @@
-Segmentation fault (core dumped)
+<div align="center">
+  Segmentation fault (core dumped)
+</div>
