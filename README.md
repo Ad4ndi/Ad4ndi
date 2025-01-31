@@ -4,11 +4,7 @@
 
   <h2><b>Language knowledge</b></h2>
 
-  <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Linux-✔️-green?logo=linux&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-✔️-blue?logo=windows&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/macOS-❓-lightgrey?logo=apple&style=for-the-badge"></a>
-</p>
+
   
   ![Language statictic](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad4ndi&layout=donut&theme=dark)
 </div>
