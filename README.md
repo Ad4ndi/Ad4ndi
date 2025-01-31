@@ -19,6 +19,6 @@
   <a href="#"><img src="https://img.shields.io/badge/OpenBSD-%23F2CA30.svg?logo=openbsd&logoColor=black&style=for-the-badge"></a>
   <a href="#"><img src="https://img.shields.io/badge/NetBSD-%23E25A21.svg?logo=netbsd&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img src="https://img.shields.io/badge/CRUX-%230099CC.svg?logo=linux&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/FreeDOS-%23007CBA.svg?logo=freedos&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/FreeDOS-%23007CBA.svg?logo=msdos&logoColor=white&style=for-the-badge"></a>
   </p>
 </div>
