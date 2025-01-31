@@ -1,3 +1,3 @@
 <div align="center">
-  **Segmentation fault (core dumped)**
+  <b>Segmentation fault (core dumped)</b>
 </div>
