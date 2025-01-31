@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b>Hello, I'm Ad4ndi</b></h2>
+  <h1><b>Hello, I'm Ad4ndi</b></h1>
   <h3>I am a beginner low-level developer from Finland, the creator of the LambDOS operating system</h3>
 
   <h2><b>Language statistic</b></h2>
