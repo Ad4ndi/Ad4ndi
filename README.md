@@ -11,7 +11,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Haskell-%235D4F85.svg?logo=haskell&logoColor=white&style=for-the-badge"></a>
   </p>
   
-  ![Language statictic](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad4ndi&layout=donut&theme=dark)
+  ![Language statictic](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad4ndi&layout=compact&theme=dark)
 
   <h2><b>Favorite Operating Systems</b></h2>
 
