@@ -1,10 +1,4 @@
-<br clear="both">
-
-<h1 align="center">λ</h1>
-
-###
-
-<h2 align="center">Hello, I'm Ad4ndi! :3</h2>
+<h1 align="center">Hello, I'm Ad4ndi! :3</h1>
 
 ###
 
