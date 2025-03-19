@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Languages i work with ^_^</h2>
+<h2 align="center">Languages I work with ^_^</h2>
 
 ###
 
