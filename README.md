@@ -2,7 +2,7 @@
 
 ###
 
-<ul align="center">
+<ul>
   <li>I am a supporter of free software, and I like liberal licenses such as Apache and BSD-3-Clause.</li>
   <li>I am currently studying low-level programming and creating my own 32-bit operating system, which will soon be available.</li>
   <li>Besides that, I am a fan of the functional programming paradigm (not counting C++).</li>
