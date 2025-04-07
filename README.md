@@ -41,6 +41,12 @@
 <div align="center">
   <img src="https://logodix.com/logo/1867838.gif" height="52" alt="openbsd logo"  />
   <img width="12" />
+  <img src="https://udger.com/pub/img/os/netbsd_big.png" height="52" alt="netbsd logo"  />
+  <img width="12" />
+  <img src="https://logodix.com/logo/1867838.gif" height="52" alt="guix logo"  />
+  <img width="12" />
+  <img src="https://logodix.com/logo/1867838.gif" height="52" alt="alpine logo"  />
+  <img width="12" />
 </div>
 
 ###
