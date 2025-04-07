@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="http://www.slackware.com/~msimons/slackware/grfx/shared/simplepwrSW.gif" height="52" alt="netbsd"  />
   <img width="12" />
-  <img src="" height="52" alt="netbsd"  />
+  <img src="https://www.freebsd.org/gifs/power-button.gif" height="52" alt="netbsd"  />
   <img width="12" />
 </div>
 
