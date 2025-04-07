@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/120px-Lisp_logo.svg.png" height="52" alt="zig logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/120px-Lisp_logo.svg.png" height="52" alt="lisp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="52" alt="zig logo"  />
   <img width="12" />
@@ -30,6 +30,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad4ndi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="140" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">My favourite OS</h2>
+
+###
+
+<div align="center">
+  <img src="https://logodix.com/logo/1867838.gif" height="52" alt="openbsd logo"  />
+  <img width="12" />
 </div>
 
 ###
