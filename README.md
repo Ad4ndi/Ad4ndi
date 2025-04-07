@@ -34,19 +34,6 @@
 
 ###
 
-<h2 align="center">Funny widgets :3</h2>
-
-###
-
-<div align="center">
-  <img src="https://petercon.freeshell.org/images/powered-by-NetBSD.png" height="52" alt="netbsd"  />
-  <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbook.anabar.ru%2Fimg%2Fpb_openbsd.gif" height="52" alt="netbsd"  />
-  <img width="12" />
-  <img src="http://www.slackware.com/~msimons/slackware/grfx/shared/simplepwrSW.gif" height="52" alt="netbsd"  />
-  <img width="12" />
-  <img src="https://www.freebsd.org/gifs/power-button.gif" height="52" alt="netbsd"  />
-  <img width="12" />
-</div>
+<img src="https://petercon.freeshell.org/images/powered-by-NetBSD.png" height="52" alt="netbsd"  />
 
 ###
