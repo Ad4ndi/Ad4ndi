@@ -43,9 +43,9 @@
   <img width="12" />
   <img src="https://udger.com/pub/img/os/netbsd_big.png" height="52" alt="netbsd logo"  />
   <img width="12" />
-  <img src="https://logodix.com/logo/1867838.gif" height="52" alt="guix logo"  />
+  <img src="https://handwiki.org/wiki/images/thumb/8/81/Guix_logo.svg/640px-Guix_logo.svg.png" height="52" alt="guix logo"  />
   <img width="12" />
-  <img src="https://logodix.com/logo/1867838.gif" height="52" alt="alpine logo"  />
+  <img src="https://schoolitexpert.com/images/logos/alpineLinux.svg" height="52" alt="alpine logo"  />
   <img width="12" />
 </div>
 
