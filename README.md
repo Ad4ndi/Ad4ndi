@@ -33,7 +33,3 @@
 </div>
 
 ###
-
-<img align="center" src="https://petercon.freeshell.org/images/powered-by-NetBSD.png" height="52" alt="netbsd"  />
-
-###
