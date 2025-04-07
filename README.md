@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ad4ndi! :3</h1>
+<h1 align="center">Hello, I'm Ad4ndi!</h1>
 
 ###
 
@@ -34,8 +34,14 @@
 
 ###
 
+<h2 align="center">Funny widgets :3</h2>
+
+###
+
 <div align="center">
-  <img src="https://www.netbsd.org/images/logos/netbsd_powered.gif" alt="netbsd"  />
+  <img src="https://petercon.freeshell.org/images/powered-by-NetBSD.png" height="52" alt="netbsd"  />
+  <img width="12" />
+  
 </div>
 
 ###
