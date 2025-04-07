@@ -41,7 +41,12 @@
 <div align="center">
   <img src="https://petercon.freeshell.org/images/powered-by-NetBSD.png" height="52" alt="netbsd"  />
   <img width="12" />
-  <img src="https://www.usps.org/icons/apache_pb.gif" height="52" alt="netbsd"  />
+  <img src="https://www.usps.org/icons/apache_pb2.gif" height="52" alt="netbsd"  />
+  <img width="12" />
+  <img src="http://www.slackware.com/~msimons/slackware/grfx/shared/simplepwrSW.gif" height="52" alt="netbsd"  />
+  <img width="12" />
+  <img src="http://www.slackware.com/~msimons/slackware/grfx/shared/slacknowCT.jpg" height="52" alt="netbsd"  />
+  <img width="12" />
 </div>
 
 ###
