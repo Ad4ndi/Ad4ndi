@@ -41,7 +41,7 @@
 <div align="center">
   <img src="https://petercon.freeshell.org/images/powered-by-NetBSD.png" height="52" alt="netbsd"  />
   <img width="12" />
-  <img src="https://www.netbsd.org/images/logos/netbsd_powered.gif" height="52" alt="netbsd"  />
+  <img src="http://www.weirdnet.nl/images/openbsd_pb.gif" height="52" alt="netbsd"  />
   <img width="12" />
   <img src="http://www.slackware.com/~msimons/slackware/grfx/shared/simplepwrSW.gif" height="52" alt="netbsd"  />
   <img width="12" />
