@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ad4ndi! :3</h1>
+<h1 align="center">Hello, I'm Ad4ndi!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Languages I work with ^_^</h2>
+<h2 align="center">Languages I work with</h2>
 
 ###
 
