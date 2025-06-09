@@ -27,8 +27,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge" height="40" alt="haskell logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  /><br>
   <img width="8" />
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
   <img width="8" />
