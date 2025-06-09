@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Flogos%2Fnetbsd_powered.gif&f=1&nofb=1&ipt=8e8ea5b0b8e90b0107d94be3e0bbdee7e34218ae7cb7f8b88ccfd2808fa3f939https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.netbsd.org%2Fimages%2Fpowered-by-NetBSD.png&f=1&nofb=1&ipt=389cbddc4a09b5990d675f737c46547ad1e1b309cac746c6389fded660b9ea4ehttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.netbsd.org%2Fimages%2Flogos%2Fnetbsd_powered.gif&f=1&nofb=1&ipt=8e8ea5b0b8e90b0107d94be3e0bbdee7e34218ae7cb7f8b88ccfd2808fa3f939https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.netbsd.org%2Fimages%2Fpowered-by-NetBSD.png&f=1&nofb=1&ipt=389cbddc4a09b5990d675f737c46547ad1e1b309cac746c6389fded660b9ea4e"  />
 </div>
 
 ###
