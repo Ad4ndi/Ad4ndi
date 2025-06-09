@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- I'm studying data science<br>- I publish personal scripts and cool programs on my github :3<br>- I really love math!!</p>
+<p align="left">- I'm studying data science<br>- On my github I publish scripts and cool programs :3<br>- I really love math!!</p>
 
 ###
 
