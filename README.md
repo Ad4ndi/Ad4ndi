@@ -22,19 +22,19 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white&style=for-the-badge" height="40" alt="perl logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="40" alt="r logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge" height="40" alt="haskell logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=black&style=for-the-badge" height="40" alt="rstudio logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white&style=for-the-badge" height="40" alt="freebsd logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
 </div>
 
@@ -44,7 +44,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad4ndi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
